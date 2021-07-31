@@ -8,11 +8,12 @@
 nav{
 	margin:0;
 	padding: 0;
-	background-color: grey;
+	background-color:darkgrey;
 	height:40px;
 	color:white;
 	width: 100%;
 	position: fixed;
+	z-index: 1;
 	
 }
 /* .box{
@@ -26,9 +27,9 @@ nav{
 }
 .box ul li a{
 text-decoration: none;
-color:yellow;
+color: yellow;
 margin-right: 10px;
-font-size: large;
+font-size: larger;
 }
 .box ul li:hover{
 	background-color: darkslategray;
@@ -68,6 +69,9 @@ h2{
 	background-color: whitesmoke;
 	margin-top: 20px;
     margin-bottom: 10px;
+}
+#para{
+	display: none;
 }
 
 
