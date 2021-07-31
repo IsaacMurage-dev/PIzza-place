@@ -57,7 +57,17 @@ font-size: large;
 h2{
 	text-align: center;
 }
+#mojo{
+/* background-color: yellowgreen; */
+}
 #munchez{
 	margin-top: 55px;
     margin-bottom: 10px;
 }
+#menu{
+	background-color: whitesmoke;
+	margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
