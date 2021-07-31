@@ -12,6 +12,9 @@ $(document).ready(function(){
     $("#s3").click(function(){
         $(".s4").toggle()
     });
+    $("#drink1").click(function(){
+        $(".drink2").toggle()
+    });
     $("#prd1").click(function(){
         $(".prd2").toggle()
     });
