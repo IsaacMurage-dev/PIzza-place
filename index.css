@@ -1,5 +1,4 @@
 #mantra{
-	margin-top: 10px;
 	height:85vh;
 	color: white;
 	background-image:url(Assets/vegggie\ pizza.jpeg);
@@ -9,11 +8,11 @@
 nav{
 	margin:0;
 	padding: 0;
-	/* background-color: black; */
+	background-color: grey;
 	height:40px;
 	color:white;
 	width: 100%;
-	/* position: fixed; */
+	position: fixed;
 	
 }
 /* .box{
@@ -47,4 +46,18 @@ font-size: large;
 	background-image: url(Assets/back3.jpg);
 	background-repeat: no-repeat;
 	transition: 15s;
+	position: relative;
+	top: 8%;
+}
+.bites{
+	text-align: center;
+	position: relative;
+	top: 5%;
+}
+h2{
+	text-align: center;
+}
+#munchez{
+	margin-top: 55px;
+    margin-bottom: 10px;
 }
