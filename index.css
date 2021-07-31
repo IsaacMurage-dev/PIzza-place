@@ -1,26 +1,35 @@
 #mantra{
+	margin-top: 10px;
 	height:85vh;
 	color: white;
 	background-image:url(Assets/vegggie\ pizza.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-.box{
-	width: 900px;
-	float: right;
-	border: 1px solid none;
+nav{
+	margin:0;
+	padding: 0;
+	/* background-color: black; */
+	height:40px;
+	color:white;
+	width: 100%;
+	/* position: fixed; */
+	
 }
+/* .box{
+	width: 700px;
+} */
 .box ul li{
-	width: 120px;
-	float: left;
+	width: 80px;
+	display: inline-block;
 	margin: 10px auto;
 	text-align: center;
 }
 .box ul li a{
 text-decoration: none;
 color:yellow;
-font-size: larger;
-font-weight: 700px;
+margin-right: 10px;
+font-size: large;
 }
 .box ul li:hover{
 	background-color: darkslategray;
