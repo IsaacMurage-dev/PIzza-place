@@ -34,10 +34,6 @@ $(document).ready(function(){
         $(".veggie2").toggle()
     });
     
-    
-    
-
-
 
 });
 // animation
