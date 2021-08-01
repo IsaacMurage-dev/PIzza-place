@@ -73,5 +73,32 @@ h2{
 #para{
 	display: none;
 }
-
+#order-pizza {
+	color: #000;
+  }
+  
+  #list li {
+	font-size: 24px;
+	font-family: system-ui, serif;
+  }
+  
+  .order-summary h1, .summary, .contact {
+	color: #000;
+	margin-top: 20px;
+  }
+  
+#summary{
+	color: white;
+}
+  
+  
+.checkout {
+	border-radius: 20px;
+	margin-top: 20px;
+  }
+  
+  #list {
+	color:white;
+  }
+  
 
