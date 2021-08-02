@@ -64,7 +64,7 @@ $(document).ready(function () {
           case pizza = "Peperoni":
             switch (size) {
               case size = "regular":
-                price = 300;
+                price = 600;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -79,7 +79,7 @@ $(document).ready(function () {
                 // }
                 break;
               case size = "medium":
-                price = 600;
+                price = 800;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -113,7 +113,7 @@ $(document).ready(function () {
           case pizza = "Chicken Bacon":
             switch (size) {
               case size = "regular":
-                price = 300;
+                price = 600;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -128,7 +128,7 @@ $(document).ready(function () {
                 // }
                 break;
               case size = "medium":
-                price = 600;
+                price = 800;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -159,7 +159,7 @@ $(document).ready(function () {
           case pizza = "Red Sauce":
             switch (size) {
               case size = "regular":
-                price = 300;
+                price = 600;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -174,7 +174,7 @@ $(document).ready(function () {
                 // }
                 break;
               case size = "medium":
-                price = 600;
+                price = 800;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -208,7 +208,7 @@ $(document).ready(function () {
           case pizza = "Italian-Style":
             switch (size) {
               case size = "regular":
-                price = 300;
+                price = 600;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -223,7 +223,7 @@ $(document).ready(function () {
                 // }
                 break;
               case size = "medium":
-                price = 600;
+                price = 800;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -257,7 +257,7 @@ $(document).ready(function () {
           case pizza = "Margherita":
             switch (size) {
               case size = "regular":
-                price = 300;
+                price = 600;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -272,7 +272,7 @@ $(document).ready(function () {
                 // }
                 break;
               case size = "medium":
-                price = 600;
+                price = 800;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -355,7 +355,7 @@ $(document).ready(function () {
           case pizza = "Heart slice":
             switch (size) {
               case size = "regular":
-                price = 300;
+                price = 600;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 }
@@ -370,7 +370,7 @@ $(document).ready(function () {
                 // }
                 break;
               case size = "medium":
-                price = 600;
+                price = 800;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -404,7 +404,7 @@ $(document).ready(function () {
           case pizza = "Veggie":
             switch (size) {
               case size = "regular":
-                price = 300;
+                price = 600;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
@@ -419,7 +419,7 @@ $(document).ready(function () {
                 // }
                 break;
               case size = "medium":
-                price = 600;
+                price = 800;
                 if (crust === "thin") {
                   totalPrice = (price * number) + 100;
                 } 
