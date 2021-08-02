@@ -600,9 +600,9 @@ $(document).ready(function () {
       });
     
          $('.go').click(function()  {
-             var name=document.querySelector('#deliveryconfirmation').value;
+             var name=document.querySelector('#name').value;
              var output=(`${name}`);
-            document.querySelector('#list').value= output;
+            document.querySelector('#deliveryconfirmation').value= output;
              var location=document.querySelector('#pn').value;
              (`${location}`);
              
