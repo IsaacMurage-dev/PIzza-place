@@ -455,16 +455,11 @@ $(document).ready(function () {
       });
     
          $('.go').click(function()  {
-             var name=document.querySelector('#name').value;
-             var output=(`${name}`);
-            document.querySelector('#deliveryconfirmation').value= output;
-             var number=document.querySelector('#pn').value;
-             var output=(`${number}`);
-             document.querySelector('#deliveryconfirmation').value= output;
-             var address=document.querySelector('#add').value;
-             var output=(`${address}`);
-             document.querySelector('#deliveryconfirmation').value= output;
-               
+          var name =(document.getElementById("name").value);
+            var address = (document.getElementById("add").value);
+            output.style.background ="lime";
+             output.style.color="red";
+             output.innerHTML= "Hey," + name + " you order has been processed,thank you for choosing Aizo Bitez!"
          })
          
     
@@ -472,10 +467,7 @@ $(document).ready(function () {
     
       });
     
-      
-      $(function () {
-        $.scrollify.move('#sum-order');
-      });
+    
     });
     
   
