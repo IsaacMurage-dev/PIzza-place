@@ -603,10 +603,13 @@ $(document).ready(function () {
              var name=document.querySelector('#name').value;
              var output=(`${name}`);
             document.querySelector('#deliveryconfirmation').value= output;
-             var location=document.querySelector('#pn').value;
-             (`${location}`);
-             
-             
+             var number=document.querySelector('#pn').value;
+             var output=(`${number}`);
+             document.querySelector('#deliveryconfirmation').value= output;
+             var address=document.querySelector('#add').value;
+             var output=(`${address}`);
+             document.querySelector('#deliveryconfirmation').value= output;
+               
          })
          
     
@@ -616,7 +619,7 @@ $(document).ready(function () {
     
       
       $(function () {
-        $(scrollify).move('#sum-order');
+        $.scrollify.move('#sum-order');
       });
     });
     
