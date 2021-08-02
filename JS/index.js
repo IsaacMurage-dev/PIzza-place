@@ -547,24 +547,7 @@ $(document).ready(function () {
           case topping = "bacon":
             totalPrice = totalPrice + 120;
             break;
-        //   case topping = "pineapple":
-        //     totalPrice = totalPrice + 120;
-        //     break;
-        //   case topping = "sweetcorn":
-        //     totalPrice = totalPrice + 120;
-        //     break;
-        //   case topping = "macon":
-        //     totalPrice = totalPrice + 120;
-        //     break;
-        //   case topping = "mince":
-        //     totalPrice = totalPrice + 120;
-        //     break;
-        //   case topping = "beef":
-        //     totalPrice = totalPrice + 170;
-        //     break;
-        //   case topping = "chicken":
-        //     totalPrice = totalPrice + 170;
-        //     break;
+       
     
         }
     
