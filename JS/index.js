@@ -65,7 +65,7 @@ $(document).ready(function () {
             switch (size) {
               case size = "regular":
                 price = 600;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -78,7 +78,7 @@ $(document).ready(function () {
                 break;
               case size = "medium":
                 price = 800;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -91,7 +91,7 @@ $(document).ready(function () {
                 break;
               case size = "large":
                 price = 1200;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 }
                  else if (crust === "thick") {
@@ -108,7 +108,7 @@ $(document).ready(function () {
             switch (size) {
               case size = "regular":
                 price = 600;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -121,7 +121,7 @@ $(document).ready(function () {
                 break;
               case size = "medium":
                 price = 800;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -134,7 +134,7 @@ $(document).ready(function () {
                 break;
               case size = "large":
                 price = 1200;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } else if (crust === "thick") {
                   totalPrice = (price * number) + 150;
@@ -150,7 +150,7 @@ $(document).ready(function () {
             switch (size) {
               case size = "regular":
                 price = 600;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -163,7 +163,7 @@ $(document).ready(function () {
                 break;
               case size = "medium":
                 price = 800;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -176,7 +176,7 @@ $(document).ready(function () {
                 break;
               case size = "large":
                 price = 1200;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -193,7 +193,7 @@ $(document).ready(function () {
             switch (size) {
               case size = "regular":
                 price = 600;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -206,7 +206,7 @@ $(document).ready(function () {
                 break;
               case size = "medium":
                 price = 800;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -219,7 +219,7 @@ $(document).ready(function () {
                 break;
               case size = "large":
                 price = 1200;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -236,7 +236,7 @@ $(document).ready(function () {
             switch (size) {
               case size = "regular":
                 price = 600;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -249,7 +249,7 @@ $(document).ready(function () {
                 break;
               case size = "medium":
                 price = 800;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -262,7 +262,7 @@ $(document).ready(function () {
                 break;
               case size = "large":
                 price = 1200;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 }
                  else if (crust === "thick") {
@@ -279,7 +279,7 @@ $(document).ready(function () {
             switch (size) {
               case size = "regular":
                 price = 300;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -292,7 +292,7 @@ $(document).ready(function () {
                 break;
               case size = "medium":
                 price = 600;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -305,7 +305,7 @@ $(document).ready(function () {
                 break;
               case size = "large":
                 price = 1200;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -322,7 +322,7 @@ $(document).ready(function () {
             switch (size) {
               case size = "regular":
                 price = 600;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 }
                  else if (crust === "thick") {
@@ -335,7 +335,7 @@ $(document).ready(function () {
                 break;
               case size = "medium":
                 price = 800;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -348,7 +348,7 @@ $(document).ready(function () {
                 break;
               case size = "large":
                 price = 1200;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -365,7 +365,7 @@ $(document).ready(function () {
             switch (size) {
               case size = "regular":
                 price = 600;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -378,7 +378,7 @@ $(document).ready(function () {
                 break;
               case size = "medium":
                 price = 800;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
                 else if (crust === "thick") {
@@ -391,7 +391,7 @@ $(document).ready(function () {
                 break;
               case size = "large":
                 price = 1200;
-                if (crust === "thin") {
+                if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 }
                  else if (crust === "thick") {
