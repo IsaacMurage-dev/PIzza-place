@@ -25,12 +25,12 @@
 				<li><a href="#mojo">About</a></li>
 				<li></i></i><a href="#menu">Menu</a></li>
 				<li><i class="fas fa-shopping-cart"></i></a><a href="#order">Order</a></li>
-				<li><a href="#">Contacts</a></li>
+				<li><a href="#contact">Contacts</a></li>
 			</ul>
 		</nav>
 		<div class="bites">
 			<br>
-			<h1>Aizo Bites</h1>
+			<h1>Aizo Bitez</h1>
 			<marquee width="60%" direction="left" height="65px" scrollamount="4">
 				<h3>~Made with the most sincere love to give you a tasty hug <i class="far fa-grin-wink"></i> </h3>
 			</marquee>
@@ -136,8 +136,8 @@
 	<div class="container-fluid">
 		<div class="orders">
 			<div id="ordernow">
-				<div id="order">
-					<h1 class="text-center" id="order-pizza">Select your preference</h1>
+				<div id="order"><br>
+					<h1 class="text-center" id="order-pizza"><i class="fas fa-arrow-circle-down"></i><br>Select your preference</h1>
 					<div class="form-group row">
 						<div class="col-sm-2"></div>
 						<div class="col-sm-8 order-overlay text-center">
@@ -231,9 +231,50 @@
 			</div>
 		</div>
 	</div>
+
+	<div class="container-fluid">
+		<section class="contact" id="contact">
+			<div id="contactus">
+				<h3><b>Contact us</b></h3>
+				
+				<div class="row">
+					<div class="col-md-8">
+						<p>We value your feedback:</p>
+						<form id="messageForm" action="">
+							<div class="form-group textarea">
+								<textarea type="text" name="message" id="message" class="form-control" rows="8" placeholder="type here..." required></textarea>
+								<button type="submit" class="btn" onclick="clearTextarea()">SEND<i class="fas fa-share-square"></i></button>
+							</div>
+						</form>
+					</div>
+					<div class="col-md-4">
+						<h5><i class="fas fa-at"></i>:</h5>
+						<p>aizobites@gmail.com</p>
+						<h5><i class="fas fa-phone-square"></i>:</h5>
+						<p>+254 500 900</p>
+						<h5>Operational Hours:</h5>
+						<p>Monday & Wednesday: 10:00hrs-21:00hrs</p>
+						<p>Tuesday,Thursday & Friday: 8:30hrs-23:00hrs</p>
+						<p>Saturday & Sunday: 9:00hrs-22:00hrs</p>
+					</div>
+					
+				</div>
+				<div class="mediaicons">
+					<span><i class="fab fa-facebook icon_facebook" style="font-size:45px" ></i></span>
+					<span><i class="fab fa-twitter" style="font-size:45px"></i></span>
+					<span><i class="fab fa-instagram icon_instagram" style="font-size:45px"></i></span>
+				</div>
+			</div>
+	
+		</section>
+	</div>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer">
 		</script>
 		<script src="JS/index.js"></script>
 </body>
+<footer><span>Aizo Bitez<span>
+	<br>
+	<p>@2021</p>
+</footer>
 
 </html>

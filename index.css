@@ -131,3 +131,34 @@ h2{
 	background-size: cover;
 
 } */
+#contactus{
+    width: 100%;
+    text-align: center;
+    color: black;
+    background-image: url(Assets/pizza\ white.jpg);
+    background-size: cover;
+}
+#contactus p{
+    font-size: 18px;
+}
+
+#contactus .btn{
+    background: transparent;
+    color: black;
+    font-weight: bolder;
+    padding: 1%;
+    font-size: 20px;
+}
+h3{
+    padding-top: 3%;
+    font-size: 50px;
+    /* padding-bottom: 2%; */
+}
+#message{
+    color: black;
+    background: transparent;
+}
+footer{
+	text-align: center;
+}
+
