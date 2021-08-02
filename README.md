@@ -1,4 +1,4 @@
-# Paul's Pizza Place
+# Pizza-Place
 #### This is a HTML ,JS project for a Pizza restaurant done;
 #### By **Murage Isaac**
 ## Description
