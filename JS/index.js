@@ -596,10 +596,19 @@ $(document).ready(function () {
         $('.summary').text("Provide location details").slideUp();
         $('.deliver').hide(1000);
         $('.delivernot').hide(1000);
-        $('.cdata-overlay').slideUp();
+        $('.cdata-overlay').show();
       });
     
-    
+         $('.go').click(function()  {
+             var name=document.querySelector('#deliveryconfirmation').value;
+             var output=(`${name}`);
+            document.querySelector('#list').value= output;
+             var location=document.querySelector('#pn').value;
+             (`${location}`);
+             
+             
+         })
+         
     
       $(".delivernot").click(function () {
     

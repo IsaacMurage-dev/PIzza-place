@@ -137,7 +137,8 @@
 		<div class="orders">
 			<div id="ordernow">
 				<div id="order"><br>
-					<h1 class="text-center" id="order-pizza"><i class="fas fa-arrow-circle-down"></i><br>Select your preference</h1>
+					<h1 class="text-center" id="order-pizza"><i class="fas fa-arrow-circle-down"></i><br>Select your
+						preference</h1>
 					<div class="form-group row">
 						<div class="col-sm-2"></div>
 						<div class="col-sm-8 order-overlay text-center">
@@ -203,78 +204,94 @@
 					</div>
 
 					<div class="order-summary" id="sum-order">
-						<h1 class="text-center" id="summary">Preview</h1>
+						<h1 class="text-center" id="summary">Preview<i class="fas fa-check-circle" style="font-size:80px;color:green;"></i></h1>
 						<h2 class="text-center summary">Hey there,please confirm if your order is as follows:</h2>
 						<ol id="list" class="text-center sum">
 						</ol>
+						<div id="deliveryconfirmation">
+										
+											<!-- <div class="name"></div>, your order has been successfully placed!
+											<br>
+											<br>The delivery fee to
+											<div class="location"></div> is Ksh.200.
+											<br>
+											<br>Total amount payable to the courier on delivery is Ksh.
+											<div class="totalDel"></div>.
+											<br> -->
 
+											<div class="cdata-overlay">
+												<div class="customerdata row">
+													<div class="col-sm-3"></div>
+													<form id="del" action="" class="form-group col-sm-6 data">
+														<input type="text" class="form-control cdata" id="name"
+															placeholder=" Name:">
+														<input type="text" class="form-control cdata" id="pn"
+															placeholder="Phone number: ">
+														<input type=" text" class="form-control cdata"
+															placeholder="Location: ">
+														<button class="btn bg-info text-center d-block mx-auto go">Make
+															Delivery</button>
+													</form>
 
-						<div class="cdata-overlay">
-							<div class="customerdata row">
-								<div class="col-sm-3"></div>
-								<form id="del" action="" class="form-group col-sm-6 data">
-									<input type="text" class="form-control cdata" placeholder="Enter your Name:">
-									<input type="text" class="form-control cdata"" placeholder=" Enter your phone number: ">
-								<input type=" text" class="form-control cdata" placeholder="Enter the location: ">
-									<button class="btn bg-info text-center d-block mx-auto go">Make Delivery</button>
-								</form>
-
-								<div class="col-md-3"></div>
+													<div class="col-md-3"></div>
+												</div>
+											</div>
+											<div class="d-block mx-auto text-center">
+												<button class='deliver'>Make Delivery</button>
+												<button class='delivernot'>Pick Up</button>
+											</div>
+									</div>
+								</div>
 							</div>
 						</div>
-						<div class="d-block mx-auto text-center">
-							<button class='deliver'>Make Delivery</button>
-							<button class='delivernot'>Pick Up</button>
-						</div>
 					</div>
-				</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="container-fluid">
-		<section class="contact" id="contact">
-			<div id="contactus">
-				<h3><b>Contact us</b></h3>
-				
-				<div class="row">
-					<div class="col-md-8">
-						<p>We value your feedback:</p>
-						<form id="messageForm" action="">
-							<div class="form-group textarea">
-								<textarea type="text" name="message" id="message" class="form-control" rows="8" placeholder="type here..." required></textarea>
-								<button type="submit" class="btn" onclick="clearTextarea()">SEND<i class="fas fa-share-square"></i></button>
+					<div class="container-fluid">
+						<section class="contact" id="contact">
+							<div id="contactus">
+								<h3><b>Contact us</b></h3>
+
+								<div class="row">
+									<div class="col-md-8">
+										<p>We value your feedback:</p>
+										<form id="messageForm" action="">
+											<div class="form-group textarea">
+												<textarea type="text" name="message" id="message" class="form-control"
+													rows="8" placeholder="type here..." required></textarea>
+												<button type="submit" class="btn" onclick="clearTextarea()">SEND<i
+														class="fas fa-share-square"></i></button>
+											</div>
+										</form>
+									</div>
+									<div class="col-md-4">
+										<h5><i class="fas fa-at"></i>:</h5>
+										<p>aizobites@gmail.com</p>
+										<h5><i class="fas fa-phone-square"></i>:</h5>
+										<p>+254 500 900</p>
+										<h5>Operational Hours:</h5>
+										<p>Monday & Wednesday: 10:00hrs-21:00hrs</p>
+										<p>Tuesday,Thursday & Friday: 8:30hrs-23:00hrs</p>
+										<p>Saturday & Sunday: 9:00hrs-22:00hrs</p>
+									</div>
+
+								</div>
+								<div class="mediaicons">
+									<span><i class="fab fa-facebook icon_facebook" style="font-size:45px"></i></span>
+									<span><i class="fab fa-twitter" style="font-size:45px"></i></span>
+									<span><i class="fab fa-instagram icon_instagram" style="font-size:45px"></i></span>
+								</div>
 							</div>
-						</form>
+
+						</section>
 					</div>
-					<div class="col-md-4">
-						<h5><i class="fas fa-at"></i>:</h5>
-						<p>aizobites@gmail.com</p>
-						<h5><i class="fas fa-phone-square"></i>:</h5>
-						<p>+254 500 900</p>
-						<h5>Operational Hours:</h5>
-						<p>Monday & Wednesday: 10:00hrs-21:00hrs</p>
-						<p>Tuesday,Thursday & Friday: 8:30hrs-23:00hrs</p>
-						<p>Saturday & Sunday: 9:00hrs-22:00hrs</p>
-					</div>
-					
-				</div>
-				<div class="mediaicons">
-					<span><i class="fab fa-facebook icon_facebook" style="font-size:45px" ></i></span>
-					<span><i class="fab fa-twitter" style="font-size:45px"></i></span>
-					<span><i class="fab fa-instagram icon_instagram" style="font-size:45px"></i></span>
-				</div>
-			</div>
-	
-		</section>
-	</div>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer">
-		</script>
-		<script src="JS/index.js"></script>
+					<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+						referrerpolicy="no-referrer">
+					</script>
+					<script src="JS/index.js"></script>
 </body>
 <footer><span>Aizo Bitez<span>
-	<br>
-	<p>@2021</p>
+			<br>
+			<p>@2021</p>
 </footer>
 
 </html>
