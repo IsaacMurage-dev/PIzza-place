@@ -74,9 +74,7 @@ $(document).ready(function () {
                 else if (crust === "flatbread") {
                   totalPrice = (price * number) + 180;
                 } 
-                // else {
-                //   totalPrice = (price * number) + 280;
-                // }
+                
                 break;
               case size = "medium":
                 price = 800;
