@@ -89,9 +89,7 @@ $(document).ready(function () {
                 else if (crust === "flatbread") {
                   totalPrice = (price * number) + 180;
                 } 
-                // else {
-                //   totalPrice = (price * number) + 280;
-                // }
+                
                 break;
               case size = "large":
                 price = 1200;
@@ -104,9 +102,7 @@ $(document).ready(function () {
                 else if (crust === "flatbread") {
                   totalPrice = (price * number) + 180;
                 } 
-                // else {
-                //   totalPrice = (price * number) + 280;
-                // }
+                
                 break;
             }
             break;
@@ -123,9 +119,7 @@ $(document).ready(function () {
                 else if (crust === "flatbread") {
                   totalPrice = (price * number) + 180;
                 } 
-                // else {
-                //   totalPrice = (price * number) + 280;
-                // }
+                
                 break;
               case size = "medium":
                 price = 800;
@@ -138,9 +132,7 @@ $(document).ready(function () {
                 else if (crust === "flatbread") {
                   totalPrice = (price * number) + 180;
                 } 
-                // else {
-                //   totalPrice = (price * number) + 280;
-                // }
+                
                 break;
               case size = "large":
                 price = 1200;
