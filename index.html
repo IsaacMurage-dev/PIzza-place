@@ -133,9 +133,10 @@
 			</div>
 		</div>
 	</div>
-             <div class="container-fluid">
-				 <div class="ordernow">
-				<div class="orders" id="order">
+	<div class="container-fluid">
+		<div class="orders">
+			<div id="ordernow">
+				<div id="order">
 					<h1 class="text-center" id="order-pizza">Select your preference</h1>
 					<div class="form-group row">
 						<div class="col-sm-2"></div>
@@ -185,53 +186,54 @@
 									<option value="chicken">Periperi Chicken @ sh. 170</option> -->
 								</select><br>
 								<label class="top" for="number">Pizza totals</label>
-								<input type="number" class="custom-select custom-select-md mb-3" id="number" placeholder="No.of pizza" min="1" required>
-			
-			
+								<input type="number" class="form-control" id="number" placeholder="No.of pizza" min="1"
+									required>
+
+
 							</form>
 							<a href="#summary">
 								<button type="submit" class="btn btn-success checkout" id="checkout">
 									Checkout
 								</button>
 							</a>
-			
+
 						</div>
 						<div class="col-sm-2">
-					</div>
-				  </div>
-			
-				  <div class="order-summary" id="sum-order">
-					<h1 class="text-center" id="summary">Order Summary</h1>
-					<h2 class="text-center summary">Hello there, your order is as follows:</h2>
-					<ol id="list" class="text-center sum">
-					</ol>
-			
-			
-					<div class="cdata-overlay">
-						<div class="customerdata row">
-							<div class="col-sm-3"></div>
-							<form id="del" action="" class="form-group col-sm-6 data">
-								<input type="text" class="custom-select custom-select-md mb-3"  placeholder="Enter your Name:">
-								<input type="text" class="custom-select custom-select-md mb-3" placeholder="Enter your phone number: ">
-								<input type="text" class="form-control cdata" placeholder="Enter the location: ">
-								<button class="btn bg-info text-center d-block mx-auto go">Make Delivery</button>
-							</form>
-			
-							<div class="col-md-3"></div>
 						</div>
 					</div>
-					<div class="d-block mx-auto text-center">
-						<button class='deliver'>Make Delivery</button>
-						<button class='delivernot'>Pick Up</button>
+
+					<div class="order-summary" id="sum-order">
+						<h1 class="text-center" id="summary">Preview</h1>
+						<h2 class="text-center summary">Hey there,please confirm if your order is as follows:</h2>
+						<ol id="list" class="text-center sum">
+						</ol>
+
+
+						<div class="cdata-overlay">
+							<div class="customerdata row">
+								<div class="col-sm-3"></div>
+								<form id="del" action="" class="form-group col-sm-6 data">
+									<input type="text" class="form-control cdata" placeholder="Enter your Name:">
+									<input type="text" class="form-control cdata"" placeholder=" Enter your phone number: ">
+								<input type=" text" class="form-control cdata" placeholder="Enter the location: ">
+									<button class="btn bg-info text-center d-block mx-auto go">Make Delivery</button>
+								</form>
+
+								<div class="col-md-3"></div>
+							</div>
+						</div>
+						<div class="d-block mx-auto text-center">
+							<button class='deliver'>Make Delivery</button>
+							<button class='delivernot'>Pick Up</button>
+						</div>
 					</div>
-				  </div>
-
-			 </div>
-			 </div>
-
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer">
-	</script>
-	<script src="JS/index.js"></script>
+				</div>
+			</div>
+		</div>
+	</div>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" referrerpolicy="no-referrer">
+		</script>
+		<script src="JS/index.js"></script>
 </body>
 
 </html>
