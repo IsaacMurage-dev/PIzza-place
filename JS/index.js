@@ -71,7 +71,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -84,7 +84,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -97,7 +97,7 @@ $(document).ready(function () {
                  else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -114,7 +114,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -127,7 +127,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -138,12 +138,9 @@ $(document).ready(function () {
                   totalPrice = (price * number) + 100;
                 } else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
-                } else if (crust === "flatbread") {
+                } else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
-                } else {
-                  totalPrice = (price * number) + 280;
                 }
-                break;
             }
             break;
           case pizza = "Red Sauce":
@@ -156,7 +153,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -169,7 +166,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -182,7 +179,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -199,7 +196,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -212,7 +209,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -225,7 +222,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -242,7 +239,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -255,7 +252,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                
@@ -268,7 +265,7 @@ $(document).ready(function () {
                  else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -285,7 +282,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                
@@ -298,7 +295,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -311,7 +308,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                
@@ -328,7 +325,7 @@ $(document).ready(function () {
                  else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                
@@ -341,7 +338,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -354,7 +351,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                 
@@ -371,7 +368,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                
@@ -384,7 +381,7 @@ $(document).ready(function () {
                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
-                else if (crust === "flatbread") {
+                else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 } 
                
@@ -397,7 +394,7 @@ $(document).ready(function () {
                  else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 }
-                 else if (crust === "flatbread") {
+                 else if (crust === "Bagels") {
                   totalPrice = (price * number) + 180;
                 }
                
