@@ -68,7 +68,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -81,7 +81,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -94,7 +94,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 }
-                 else if (crust === "thick") {
+                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -111,7 +111,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -124,7 +124,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -136,7 +136,7 @@ $(document).ready(function () {
                 price = 1200;
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
-                } else if (crust === "thick") {
+                } else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } else if (crust === "flatbread") {
                   totalPrice = (price * number) + 180;
@@ -153,7 +153,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -166,7 +166,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -179,7 +179,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -196,7 +196,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -209,7 +209,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -222,7 +222,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -239,7 +239,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -252,7 +252,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -265,7 +265,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 }
-                 else if (crust === "thick") {
+                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -282,7 +282,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -295,7 +295,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -308,7 +308,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -325,7 +325,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 }
-                 else if (crust === "thick") {
+                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -338,7 +338,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -351,7 +351,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -368,7 +368,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -381,7 +381,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 } 
-                else if (crust === "thick") {
+                else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 } 
                 else if (crust === "flatbread") {
@@ -394,7 +394,7 @@ $(document).ready(function () {
                 if (crust === "Naepolitan") {
                   totalPrice = (price * number) + 100;
                 }
-                 else if (crust === "thick") {
+                 else if (crust === "Sicilian") {
                   totalPrice = (price * number) + 150;
                 }
                  else if (crust === "flatbread") {
