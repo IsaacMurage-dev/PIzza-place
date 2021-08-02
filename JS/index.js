@@ -454,12 +454,13 @@ $(document).ready(function () {
         $('.cdata-overlay').show();
       });
     
-         $('.go').click(function()  {
+         $('.go').click(function(event)  {
           var name =(document.getElementById("name").value);
             var address = (document.getElementById("add").value);
             output.style.background ="lime";
              output.style.color="red";
              output.innerHTML= "Hey," + name + " you order has been processed,thank you for choosing Aizo Bitez!"
+             event.PreventDefault();
          })
          
     
